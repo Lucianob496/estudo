@@ -1,3 +1,6 @@
+
+# juntar os dados do anilist com o do myanimelist para saber quais animes os usuarios tem em comum
+
 import requests
 from collections import Counter
 
