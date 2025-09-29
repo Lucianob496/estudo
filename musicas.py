@@ -1,3 +1,5 @@
+# Baixar as musicas e escrever metadados de uma lista gerada por script do animemusicquiz
+
 import json
 from urllib.request import urlretrieve
 import shutil
